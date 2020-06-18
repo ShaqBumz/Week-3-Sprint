@@ -4,7 +4,7 @@
 
 # Team Members
 
-# Ntlantla Mchasi
+# Ntlahla Mchasi
 # Shaquille Bandura
 # Esona Dyakalashe
 # Aphiwe Nxolongo
