@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+
+public class TriangleCreation {
+
+	public static void main(String[] args) {
+
+		int numHashTags = Integer.parseInt(JOptionPane.showInputDialog("Please Enter The Amount Of HashTag Rows To Print"));
+
+		for (int i = 1; i <= numHashTags; i++) {
+			for (int j = 1; j <= i; j++) {
+				System.out.print("# ");
+			}
+			System.out.println();
+		}
+	}
+
+}
